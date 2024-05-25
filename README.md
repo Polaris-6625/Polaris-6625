@@ -1,3 +1,3 @@
-![Metrics](https://metrics.lecoq.io/insights/Polaris-6625)
+大三在读
 
-大学生一枚～
+先后在琴理工作室，亚信科技，RightCapital，百度实习
