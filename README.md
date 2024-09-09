@@ -1,5 +1,5 @@
-大三在读
+秋招ing
 
-先后在琴理工作室，亚信科技，RightCapital，百度实习
+曾在琴理工作室，亚信科技，RightCapital，百度实习。
 
 
