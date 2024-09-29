@@ -2,6 +2,13 @@
 
 曾在琴理工作室，亚信科技，RightCapital，百度实习。
 
+技术栈：
+
+- React
+- Vue
+- Rust
+- Java
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Polaris-6625&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Polaris-6625)](https://git.io/streak-stats)
